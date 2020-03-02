@@ -18,4 +18,18 @@
         "preview": "img/class-diagram.png"
     },
     
+    {
+        "id": 4,
+        "title": "Новый раздел",
+        "description": "Описание нового раздела",
+        "preview": "img/new-diagram.png"
+    },
+    
+    {
+        "id": 5,
+        "title": "Новый раздел",
+        "description": "Описание нового раздела",
+        "preview": "img/new-diagram.png"
+    }
+    
 ]
