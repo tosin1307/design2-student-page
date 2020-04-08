@@ -24,14 +24,14 @@
         "id": "4_Seminars",
         "title": "Семинары",
         "description": "Отчеты по семинарам",
-        "preview": "img/seminars.png"
+        "preview": "img/seminars.jpg"
     },
     
     {
         "id": "5_projects",
         "title": "Проект",
         "description": "Этапы проекта",
-        "preview": "img/projects.png"
+        "preview": "img/projects.jpg"
     }
     
 ]
