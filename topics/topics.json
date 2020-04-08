@@ -12,24 +12,24 @@
         "preview": "img/class-diagram.png"
     },
        {
-        "id": 3,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "id": 3_LabWork,
+        "title": "Лабораторные работы",
+        "description": "Отчеты по ЛР",
+        "preview": "img/lr.png"
     },
     
     {
-        "id": 4,
-        "title": "Новый раздел",
-        "description": "Описание нового раздела",
-        "preview": "img/new-diagram.png"
+        "id": 4_Seminars,
+        "title": "Семинары",
+        "description": "Отчеты по семинарам",
+        "preview": "img/seminars.png"
     },
     
     {
-        "id": 5,
-        "title": "Новый раздел",
-        "description": "Описание нового раздела",
-        "preview": "img/new-diagram.png"
+        "id": 5_projects,
+        "title": "Проект",
+        "description": "Этапы проекта",
+        "preview": "img/projects.png"
     }
     
 ]
